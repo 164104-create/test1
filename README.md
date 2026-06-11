@@ -1,2 +1,2 @@
 # test1
-[myprogram](program01.py)
+[2](program01.py)
